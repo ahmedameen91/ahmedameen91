@@ -1,79 +1,68 @@
-AHMED AMEEN
-Data Science · AI · Automation
+                         AHMED AMEEN
+                 DATA SCIENCE • AI • AUTOMATION
 
-"I like building things that start with
-        'what if we...'"
+          ─────────────────────────────────────────
 
-────────────────────────────────────────
+                    I BUILD THINGS.
 
-ABOUT
+       Data → Intelligence → Automation → Hardware
 
-BTech CSE (Data Science) student at Jain University, Kochi.
 
-Currently exploring AI, data, automation and the occasional
-hardware project.
+   currently
+   ┌──────────────────────────────────────────────┐
+   │  learning        Data Science & AI            │
+   │  building        intelligent tools            │
+   │  experimenting   IoT + automation             │
+   └──────────────────────────────────────────────┘
 
-I learn by building.
 
-────────────────────────────────────────
+   ── SELECTED WORK ──────────────────────────────
 
-01 / PROJECTS
+   ◉  DATA CLEANING & EDA AGENT
+      An AI agent that takes raw datasets and
+      handles preprocessing + exploratory analysis.
 
-AUTOMATED DATA CLEANING & EDA AGENT
-AI-powered data preprocessing and exploratory analysis.
-→ data types · missing values · outliers · statistics
+      Python · AI · Data Analysis
 
-RETAIL SALES PATTERN ANALYZER
-Market basket analysis using the Apriori algorithm.
-→ frequent itemsets · association rules · insights
 
-IoT-BASED SMART AUTOMATION
-ESP8266-based smart lighting controlled remotely through Blynk.
-→ IoT · Wi-Fi · automation
+   ◉  SMART AUTOMATION
+      ESP8266 + Blynk based lighting automation.
 
-────────────────────────────────────────
+      ESP8266 · IoT · Automation
 
-02 / EXPERIENCE
 
-DATA ANALYTICS & OPERATIONS
-Maxed · 2026
-Power BI · KPI analysis · EV market research
+   ◉  RETAIL PATTERN ANALYZER
+      Market basket analysis using Apriori.
 
-ARTIFICIAL INTELLIGENCE
-AccelerateX × Novolo.ai · 2025
-AI · ML · DL · AI agents · computer vision
+      Python · ML · Data Mining
 
-────────────────────────────────────────
 
-03 / CURRENTLY
+   ── EXPERIENCE ─────────────────────────────────
 
-studying       → Data Science
-building       → AI + automation
-experimenting  → hardware
-learning       → whatever looks interesting
+   MAXED
+   Data Analytics & Operations · 2026
+   Power BI · KPI Analysis · Market Research
 
-────────────────────────────────────────
+   ACCELERATEX × NOVOLO.AI
+   Artificial Intelligence · 2025
+   AI · ML · DL · AI Agents · Computer Vision
 
-04 / STACK
 
-Python  ·  MySQL  ·  OpenCV
-Power BI · HTML/CSS · Firebase
-Git      · GitHub · Arduino/ESP8266
+   ── THE TOOLBOX ─────────────────────────────────
 
-────────────────────────────────────────
+   PYTHON   C++   MYSQL   OPENCV
+   POWER BI   FIREBASE   HTML/CSS
+   GIT   GITHUB   ESP8266
 
-05 / BEYOND CODE
 
-IEEE SB Jain — Treasurer
-IEDC Kerala — Finance Lead
-Community · Startups · Blockchain
+   ── OUTSIDE THE TERMINAL ────────────────────────
 
-────────────────────────────────────────
+   IEEE SB JAIN        TREASURER
+   IEDC KERALA         FINANCE LEAD
 
-      BUILD → BREAK → LEARN → REPEAT
 
-────────────────────────────────────────
+                     [ LINKEDIN ]
+                     [ LINKTREE ]
 
-LINKS
 
-LinkedIn · Linktree · GitHub
+              "I learn by building."
