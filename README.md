@@ -12,7 +12,9 @@
 ```
 
 [ LinkedIn ](https://www.linkedin.com/in/ahmed-ayymu)
+
 [ GitHub ](https://github.com/ahmedameen91)
+
 [ Email ](mailto:ahmedazim560@gmail.com)
 
 </div>
