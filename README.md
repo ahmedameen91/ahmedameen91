@@ -3,37 +3,27 @@
 ```text
                 AHMED AMEEN
                  DATA SCIENCE • AI • AUTOMATION
-
                ───────────────────────────────────────────
-
                     I BUILD THINGS.
-
              Data → Intelligence → Automation → Hardware
 ```
 
-
 ```text
        ──────────────────── ABOUT ─────────────────
-
   BTech CSE (Data Science) student at Jain University, Kochi.
-
   Interested in data, AI, automation and building things
   that solve real problems.
-
   I learn by building.
 ```
 
 ```text
        ── PROJECTS ─────────────────────────────────
-
   01 / EDA AGENT
       AI-powered automated data cleaning & EDA
       Python · AI · Data Analysis
-
   02 / SMART AUTOMATION
       ESP8266-based smart lighting system
       ESP8266 · IoT · Automation
-
   03 / RETAIL ANALYZER
       Market Basket Analysis using Apriori
       Python · ML · Data Mining
@@ -42,12 +32,12 @@
 ```text
   ── EXPERIENCE ───────────────────────────────
 
-  MAXED
-  Data Analytics & Operations · 2026
+    MAXED 
+  Data Analytics & Operations Intern· 2026
   Power BI · KPI Analysis · Market Research
 
   IEEE SB JAIN
-  Treasurer
+  Treasurer · 2026 – Present
 
   IEDC KERALA
   Finance Lead · 2026 – Present
@@ -70,15 +60,5 @@
 ```
 
 <div align="center">
-
-```text
-        ─────────────────────────────────────────
-
-                    STILL A STUDENT.
-                    ALWAYS BUILDING.
-                    MORE TO COME...
-
-        ─────────────────────────────────────────
-```
 
 </div>
