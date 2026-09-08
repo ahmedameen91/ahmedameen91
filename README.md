@@ -1,64 +1,34 @@
-<div align="center">
+### <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a> welcome to Ahmed's github...
+⤹｡⋆ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ ☽˚｡˚ data enthusiast
+<br />
 
-```text
-                AHMED AMEEN
-                 DATA SCIENCE • AI • AUTOMATION
-               ───────────────────────────────────────────
-                    I BUILD THINGS.
-             Data → Intelligence → Automation → Hardware
-```
+I’m **Ahmed Ameen**, currently studying **Computer Science Engineering (Data Science)** at **Jain (Deemed-to-be University)** in Kochi. 🐧
 
-```text
-       ──────────────────── ABOUT ─────────────────
-  BTech CSE (Data Science) student at Jain University, Kochi.
-  Interested in data, AI, automation and building things
-  that solve real problems.
-  I learn by building.
-```
+I’m interested in **Artificial Intelligence, Data Science, automation and building things** that solve real-world problems.
 
-```text
-       ── PROJECTS ─────────────────────────────────
-  01 / EDA AGENT
-      AI-powered automated data cleaning & EDA
-      Python · AI · Data Analysis
-  02 / SMART AUTOMATION
-      ESP8266-based smart lighting system
-      ESP8266 · IoT · Automation
-  03 / RETAIL ANALYZER
-      Market Basket Analysis using Apriori
-      Python · ML · Data Mining
-```
+Currently exploring **AI agents, data analysis and hardware/IoT projects** while learning by building.
 
-```text
-  ── EXPERIENCE ───────────────────────────────
+Outside of code, I’m involved in **IEEE** and **IEDC**, and I enjoy experimenting with new ideas, technology and startups.
 
-    MAXED 
-  Data Analytics & Operations Intern· 2026
-  Power BI · KPI Analysis · Market Research
 
-  IEEE SB JAIN
-  Treasurer · 2026 – Present
+<h3>personal info</h3>
 
-  IEDC KERALA
-  Finance Lead · 2026 – Present
-```
+- 🎓 BTech CSE (Data Science) · Jain University
+- 🤖 Interested in **AI · Data Science · Automation · IoT**
+- 💼 Data Analytics & Operations Intern @ **Maxed**
+- 🧠 Artificial Intelligence Intern @ **AccelerateX × Novolo.ai**
+- 🏛️ Treasurer @ **IEEE SB Jain**
+- 💰 Finance Lead @ **IEDC Kerala**
+- 🛠️ Currently building and experimenting with new projects
 
-```text
-  ── STACK ────────────────────────────────────
+<h3>projects</h3>
 
-  Python · C++ · MySQL · OpenCV
-  Power BI · Firebase · HTML/CSS
-  Git · GitHub · ESP8266
-```
+- **Automated Data Cleaning & EDA Agent** — AI-powered data preprocessing and analysis
+- **IoT-Based Smart Automation** — ESP8266 + Blynk smart lighting system
+- **Retail Sales Pattern Analyzer** — Market Basket Analysis using Apriori
 
-```text
-  ── CURRENTLY ─────────────────────────────────
+<h3>connect with me</h3>
 
-  Building    → AI + Automation
-  Learning    → Data Science
-  Exploring   → Hardware + New Ideas
-```
-
-<div align="center">
-
-</div>
+<a href="https://www.linkedin.com/in/ahmed-ayymu">LinkedIn</a> ·
+<a href="https://github.com/ahmedameen91">GitHub</a> ·
+<a href="mailto:ahmedazim560@gmail.com">Email</a>
