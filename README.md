@@ -9,19 +9,9 @@
                     I BUILD THINGS.
 
              Data → Intelligence → Automation → Hardware
-```
 
-[ LinkedIn ](https://www.linkedin.com/in/ahmed-ayymu)
 
-[ GitHub ](https://github.com/ahmedameen91)
 
-[ Email ](mailto:ahmedazim560@gmail.com)
-
-</div>
-
----
-
-```text
   ── ABOUT ─────────────────────────────────────
 
   BTech CSE (Data Science) student at Jain University, Kochi.
@@ -30,9 +20,7 @@
   that solve real problems.
 
   I learn by building.
-```
 
-```text
   ── PROJECTS ─────────────────────────────────
 
   01 / EDA AGENT
@@ -46,9 +34,7 @@
   03 / RETAIL ANALYZER
       Market Basket Analysis using Apriori
       Python · ML · Data Mining
-```
 
-```text
   ── EXPERIENCE ───────────────────────────────
 
   MAXED
@@ -60,27 +46,22 @@
 
   IEDC KERALA
   Finance Lead · 2026 – Present
-```
 
-```text
   ── STACK ────────────────────────────────────
 
   Python · C++ · MySQL · OpenCV
   Power BI · Firebase · HTML/CSS
   Git · GitHub · ESP8266
-```
 
-```text
   ── CURRENTLY ─────────────────────────────────
 
   Building    → AI + Automation
   Learning    → Data Science
   Exploring   → Hardware + New Ideas
-```
 
 <div align="center">
 
-```text
+
         ─────────────────────────────────────────
 
                     STILL A STUDENT.
